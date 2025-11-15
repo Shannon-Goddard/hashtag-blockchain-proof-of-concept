@@ -1,5 +1,7 @@
 # Social Media as Distributed Ledger: A Proof of Concept Implementation
 
+> **🎯 New to this research?** Check out our [**NAVIGATION_GUIDE.md**](./NAVIGATION_GUIDE.md) for a fun but rigorous tour of our breakthrough!
+
 ## Abstract
 
 This research presents the first practical implementation of social media platforms functioning as a distributed verification system through structured hashtag protocols. We demonstrate that existing social networks can serve as decentralized ledgers for real-world action verification, achieving 85% automated accuracy with 99% reliability when combined with community consensus mechanisms. Our proof-of-concept, implemented through the Mission Mischief platform, processed over 1,000 real-world transactions across Instagram, Facebook, and X (formerly Twitter), validating the feasibility of hashtag-based blockchain protocols for identity verification, supply chain tracking, and decentralized governance applications.
