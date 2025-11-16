@@ -9,6 +9,16 @@
 
 **TL;DR**: Developer stumbled onto something cool while building a game - hashtag protocol using Instagram/Facebook/X for community-verified transactions. Processed ~1,000 test transactions. **Research/educational use only** — seeking academic collaborators for validation.
 
+## 🤝 Call for Collaborators
+
+We are seeking academic and industry partners to reproduce and validate our findings:
+- **Statistical validation**: Independent assessment of accuracy metrics
+- **Security analysis**: Adversarial testing and platform manipulation resistance  
+- **Ethics review**: Privacy compliance and platform ToS guidance
+- **Reproducibility**: Validate parsing and geographic clustering on sample data
+
+If interested, open a `research-collab` issue or email shannon@loyal9.app. See CONTRIBUTING.md for details.
+
 > **🎯 New to this research?** Check out our [**NAVIGATION_GUIDE.md**](./NAVIGATION_GUIDE.md) for a fun but rigorous tour of our breakthrough!
 
 ## ⚠️ Security & Ethics (Read First)
@@ -25,7 +35,7 @@ This project uses scraped public social media posts for research and uses Bright
 
 ## Abstract
 
-This research presents the first practical implementation of social media platforms functioning as a distributed verification system through structured hashtag protocols. We demonstrate that existing social networks can serve as decentralized ledgers for real-world action verification, achieving 85% automated accuracy with 99% reliability when combined with community consensus mechanisms. Our proof-of-concept, implemented through the Mission Mischief platform, processed over 1,000 real-world transactions across Instagram, Facebook, and X (formerly Twitter), validating the feasibility of hashtag-based blockchain protocols for identity verification, supply chain tracking, and decentralized governance applications.
+This research presents the first practical implementation of social media platforms functioning as a distributed verification system through structured hashtag protocols. We demonstrate that existing social networks can serve as decentralized ledgers for real-world action verification. Preliminary results show ~85% automated accuracy with ~99% reliability when combined with community consensus mechanisms in our experiments (see METHODS.md for methodology and experimental-data for sample results). Our proof-of-concept, implemented through the Mission Mischief platform, processed over 1,000 real-world transactions across Instagram, Facebook, and X (formerly Twitter), validating the feasibility of hashtag-based blockchain protocols for identity verification, supply chain tracking, and decentralized governance applications.
 
 **Keywords**: distributed systems, social verification, hashtag protocols, decentralized identity, blockchain alternatives
 

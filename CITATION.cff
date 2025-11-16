@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Social Media as Distributed Ledger: A Proof of Concept Implementation"
+abstract: "Hashtag-based social verification system using Instagram/Facebook/X for community-verified transactions. Proof-of-concept demonstrating social media platforms as distributed ledgers."
+authors:
+  - family-names: "Goddard"
+    given-names: "Shannon"
+    email: "shannon@loyal9.app"
+    affiliation: "Loyal9 LLC"
+  - name: "Amazon Q AI Assistant"
+    affiliation: "Amazon Web Services"
+repository-code: "https://github.com/Shannon-Goddard/hashtag-blockchain-proof-of-concept"
+url: "https://missionmischief.com"
+license: MIT
+keywords:
+  - "hashtag-blockchain"
+  - "social-verification" 
+  - "distributed-systems"
+  - "proof-of-concept"
+  - "web3"
+  - "social-media"
+date-released: 2024-11-01
