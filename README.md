@@ -1,6 +1,27 @@
 # Social Media as Distributed Ledger: A Proof of Concept Implementation
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-missionmischief.online-brightgreen?style=for-the-badge)](https://missionmischief.online)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
+[![Status: Proof of Concept](https://img.shields.io/badge/Status-Proof%20of%20Concept-blueviolet?style=for-the-badge)]
+[![Not for production](https://img.shields.io/badge/Not%20for%20production-Research%20use%20only-red?style=for-the-badge)]
+[![Data: Bright Data](https://img.shields.io/badge/Data-BrightData-orange?style=for-the-badge)](https://brightdata.com)
+[![Collaborators wanted](https://img.shields.io/badge/Collaborators-Wanted-ff69b4?style=for-the-badge)]
+
+**TL;DR**: Developer stumbled onto something cool while building a game - hashtag protocol using Instagram/Facebook/X for community-verified transactions. Processed ~1,000 test transactions. **Research/educational use only** — seeking academic collaborators for validation.
+
 > **🎯 New to this research?** Check out our [**NAVIGATION_GUIDE.md**](./NAVIGATION_GUIDE.md) for a fun but rigorous tour of our breakthrough!
+
+## ⚠️ Security & Ethics (Read First)
+
+This project uses scraped public social media posts for research and uses Bright Data for data collection. All personal identifiers are pseudonymized and aggregated where possible before publication. Use of the data and code is subject to the terms of service of the social platforms and Bright Data — do not use this code or datasets in production without an independent legal and ethics review.
+
+- **Data source**: Bright Data (brightdata.com) and public social posts only
+- **Data handling**: Pseudonymization and aggregation applied; raw data is NOT published in this repository
+- **Usage restrictions**: Research/validation only. Not audited — not for production, financial transactions, or safety‑critical use
+- **Known risks**: Platform ToS compliance, privacy concerns, potential attack vectors
+- **Contact**: shannon@loyal9.app for questions about data usage or collaboration
+
+**🚨 NOT FOR PRODUCTION USE 🚨**
 
 ## Abstract
 
