@@ -2,10 +2,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-missionmischief.online-brightgreen?style=for-the-badge)](https://missionmischief.online)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
-[![Status: Proof of Concept](https://img.shields.io/badge/Status-Proof%20of%20Concept-blueviolet?style=for-the-badge)]
-[![Not for production](https://img.shields.io/badge/Not%20for%20production-Research%20use%20only-red?style=for-the-badge)]
+[![Status: Proof of Concept](https://img.shields.io/badge/Status-Proof%20of%20Concept-blueviolet?style=for-the-badge)](#)
+[![Not for production](https://img.shields.io/badge/Not%20for%20production-Research%20use%20only-red?style=for-the-badge)](#)
 [![Data: Bright Data](https://img.shields.io/badge/Data-BrightData-orange?style=for-the-badge)](https://brightdata.com)
-[![Collaborators wanted](https://img.shields.io/badge/Collaborators-Wanted-ff69b4?style=for-the-badge)]
+[![Collaborators wanted](https://img.shields.io/badge/Collaborators-Wanted-ff69b4?style=for-the-badge)](#)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17620402.svg)](https://doi.org/10.5281/zenodo.17620402)
 
 **TL;DR**: Developer stumbled onto something cool while building a game - hashtag protocol using Instagram/Facebook/X for community-verified transactions. Processed ~1,000 test transactions. **Research/educational use only** — seeking academic collaborators for validation.
