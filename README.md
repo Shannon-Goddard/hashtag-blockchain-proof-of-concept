@@ -1,5 +1,6 @@
-# Social Media as Distributed Ledger: A Proof of Concept Implementation
+# Social Media as Distributed Ledger: A Proof of Concept Implementation  
 
+[![Co-Authored with Amazon Q](https://img.shields.io/badge/Co--Authored%20with-Amazon%20Q%20(AWS)-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/q/)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-missionmischief.online-brightgreen?style=for-the-badge)](https://missionmischief.online)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
 [![Status: Proof of Concept](https://img.shields.io/badge/Status-Proof%20of%20Concept-blueviolet?style=for-the-badge)](#)
@@ -20,7 +21,19 @@ We are seeking academic and industry partners to reproduce and validate our find
 
 If interested, open a `research-collab` issue or email shannon@loyal9.app. See CONTRIBUTING.md for details.
 
-> **🎯 New to this research?** Check out our [**NAVIGATION_GUIDE.md**](./NAVIGATION_GUIDE.md) for a fun but rigorous tour of our breakthrough!
+> **🎯 New to this research?** Check out our [**NAVIGATION_GUIDE.md**](./NAVIGATION_GUIDE.md) for a fun but rigorous tour of our breakthrough!  
+
+## AI Co-Authorship & Transparency
+
+**AI Co-Author**: Amazon Q (AWS)  
+**Human Author**: Shannon Goddard (shannon@loyal9.app)  
+
+**Suggested Citation**:  
+> Amazon Q (AWS), & Goddard, S. (2025). Social Media as Distributed Ledger: A Proof-of-Concept Implementation. *Zenodo*. https://doi.org/10.5281/zenodo.17620402
+
+**Note**: Technical implementation was conducted by the AI co-author. Human co-author contributed the core concept of using hashtags as cross-platform verification identifiers.
+
+Full conversation logs available in `/conversation-logs/` for reproducibility and transparency.  
 
 ## ⚠️ Security & Ethics (Read First)
 
